@@ -20,7 +20,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "oceeliteclient",
+	"clientFolder": "Client",
 	"newClientUrl" : "https://github.com/Desasterrrr/clientupdate.git",
 	"clientExecutable": "client.exe"
 }
