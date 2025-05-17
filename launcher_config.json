@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "13.40.93b0a1",
+	"clientVersion": "14,12,1",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -17,10 +17,17 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "assets"
 		},
 		{
+			"name": "storeimages"
+		},
+		{
 			"name": "bin"
 		}
+		{
+			"name": "sounds"
+		}
+
 	],
-	"clientFolder": "Client",
-	"newClientUrl" : "https://github.com/Desasterrrr/clientupdate.git",
+	"clientFolder": "client",
+	"newClientUrl" : "https://github.com/Desasterrrr/clientupdate/releases/download/v14.12.1/client.zip",
 	"clientExecutable": "client.exe"
 }
