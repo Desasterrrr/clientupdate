@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "15,0,4",
+	"clientVersion": "15,0,3",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -19,6 +19,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 
 	],
 	"clientFolder": "client",
-	"newClientUrl" : "https://github.com/Desasterrrr/clientupdate/releases/download/v15.0.4/client.zip",
+	"newClientUrl" : "https://github.com/Desasterrrr/clientupdate/releases/download/v15.0.3/client.zip",
 	"clientExecutable": "client.exe"
 }
